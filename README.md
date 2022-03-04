@@ -1,5 +1,5 @@
 # calculator
 
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator
+Foundations Project #5 from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator)
 
-live: https://fendytan.github.io/calculator/
+[Live Demo](https://fendytan.github.io/calculator/)
